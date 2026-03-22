@@ -1,0 +1,20 @@
+# IMPORTANT: Never push your API key to GitHub!
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Reports
+reports/*.html
+reports/*.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
